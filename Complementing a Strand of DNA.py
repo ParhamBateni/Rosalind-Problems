@@ -1,0 +1,1 @@
+print(input()[::-1].replace('C','X').replace('G','C').replace('A','Y').replace('T','A').replace('X','G').replace('Y','T'))
